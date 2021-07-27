@@ -3,6 +3,7 @@ app-admin/eclean-kernel
 app-admin/logrotate
 app-admin/pass
 app-admin/pass-otp
+app-admin/perl-cleaner
 app-admin/pwgen
 app-admin/stow
 app-admin/syslog-ng
@@ -58,8 +59,6 @@ dev-cpp/gtest
 dev-cpp/ms-gsl
 dev-cpp/picojson
 dev-cpp/websocketpp
-dev-db/postgresql
-dev-db/sqlite
 dev-libs/boost
 dev-libs/dmalloc
 dev-libs/jemalloc
@@ -116,7 +115,6 @@ media-gfx/imv
 media-gfx/maim
 media-sound/mpc
 media-sound/mpd
-media-sound/mpdscribble
 media-sound/ncmpcpp
 media-video/mpv
 media-video/subliminal
