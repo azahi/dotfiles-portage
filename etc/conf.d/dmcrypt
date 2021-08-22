@@ -52,6 +52,7 @@ dmcrypt_retries=5
 #                                    be looked up automatically.
 # pre_mount='cmds'                   == commands to execute before mounting partition.
 # post_mount='cmds'                  == commands to execute after mounting partition.
+# wait=5                             == wait given amount of seconds for source to appear
 #-----------
 # Supported Modes
 # gpg					== decrypt and pipe key into cryptsetup.
