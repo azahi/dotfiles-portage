@@ -1,0 +1,2 @@
+* genfiles
+Deprecated in favor of [[https://github.com/azahi/nixfiles][nixfiles]].
